@@ -37,7 +37,7 @@ signed main() {
 		for (int y1 = 1; y1 <= n; y1++) {
 			for (int x2 = 1; x2 <= n; x2++) {
 				for (int y2 = 1; y2 <= n; y2++) {
-					//需要有这样一行来过滤无效数据
+					//需要有这样一行来过滤无效数据喵
 					if (x2 < x1 || y2 < y1)continue;
 					Ans = max(Ans, s[x2][y2] - s[x2][y1 - 1] - s[x1 - 1][y2] + s[x1 - 1][y1 - 1]);
 				}
