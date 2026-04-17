@@ -130,6 +130,7 @@
     <ClCompile Include="前缀和差分eg2-洛谷P1719.cpp" />
     <ClCompile Include="前缀和差分eg3-P2367.cpp" />
     <ClCompile Include="前缀和差分eg1-洛谷P8218.cpp" />
+    <ClCompile Include="前缀和差分eg4-洛谷P4231.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
