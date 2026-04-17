@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="前缀和例2-洛谷P1719.cpp" />
+    <ClCompile Include="前缀和差分eg3-P2367.cpp" />
     <ClCompile Include="差分前缀和例1-洛谷P8218.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

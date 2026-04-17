@@ -21,5 +21,8 @@
     <ClCompile Include="前缀和例2-洛谷P1719.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="前缀和差分eg3-P2367.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
