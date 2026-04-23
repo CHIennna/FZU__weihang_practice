@@ -34,7 +34,7 @@ signed main() {
 	}
 	for (int i = 1; i <= n; i++) {
 		diff[i] += diff[i - 1];
-	}//前缀和还原
+	}//差分还原
 	for (int i = 1; i <= n; i++) {
 		Ans = min(Ans, diff[i]);
 	}

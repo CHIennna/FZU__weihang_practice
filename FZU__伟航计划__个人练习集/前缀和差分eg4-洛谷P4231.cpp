@@ -47,7 +47,6 @@ signed main() {
 	}
 	ll xor_sum = 0;//异或和
 	ll max_val = LLONG_MIN;//最大值
-	ll Ans = LLONG_MIN;
 	for (int i = 1; i <= n; i++) d1[i] = d1[i - 1] + d2[i];//还原一阶
 	for (int i = 1; i <= n; i++) a[i] = a[i - 1] + d1[i];//还原数组
 	for (ll i = 1; i <= n; i++) {

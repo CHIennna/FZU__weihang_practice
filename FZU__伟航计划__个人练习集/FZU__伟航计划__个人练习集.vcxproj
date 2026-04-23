@@ -130,7 +130,16 @@
     <ClCompile Include="前缀和差分eg2-洛谷P1719.cpp" />
     <ClCompile Include="前缀和差分eg3-P2367.cpp" />
     <ClCompile Include="前缀和差分eg1-洛谷P8218.cpp" />
+    <ClCompile Include="前缀和差分eg5-洛谷P1496.cpp" />
     <ClCompile Include="前缀和差分eg4-洛谷P4231.cpp" />
+    <ClCompile Include="第二场eg1-洛谷P1548.cpp" />
+    <ClCompile Include="第二场eg2-二分-洛谷P1873.cpp" />
+    <ClCompile Include="第二场eg3-哈希-洛谷P4305.cpp" />
+    <ClCompile Include="第二场eg4-贪心-洛谷P1223.cpp.cpp" />
+    <ClCompile Include="第二场eg5-bfs-洛谷P1746.cpp" />
+    <ClCompile Include="第二场eg6-递归-洛谷B2046.cpp" />
+    <ClCompile Include="第二场eg7-质数筛-洛谷P5736.cpp" />
+    <ClCompile Include="第二场eg8-线段树-洛谷P.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
