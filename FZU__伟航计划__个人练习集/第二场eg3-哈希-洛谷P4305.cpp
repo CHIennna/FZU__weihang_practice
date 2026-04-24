@@ -1,9 +1,10 @@
 #include <map>
 #include <set>
+#include <vector>
 #include <iomanip>
 #include <iostream>
 #include <algorithm>
-#include <unordered_map>
+#include <unordered_set>
 using namespace std;
 typedef long long ll;
 constexpr int maxn = 1000011;
@@ -28,18 +29,20 @@ int main() {
 	while (t--) {
 		int n;
 		cin >> n;
-		vector<int> nums(n + 1, 0);
-		for (int i = 1; i <= n; i++) {
-			cin >> nums[i];
+		unordered_set<int> nums;
+		vector<int> res;
+		for (int i = 0; i < n; i++) {
+			int x;
+			cin >> x;
+			if (nums.find(x) == nums.end()) {
+				nums.insert(x);
+				res.push_back(x);
+			}
 		}
-		set<int> res(n + 1);
-		if () {
-
+		for (int i = 0; i < res.size(); i++) {
+			cout << res[i] << " ";
 		}
-		for (set<int>::iterator i = res.begin(); i != res.end(); i++) {
-			cout << *i;
-		}
+		cout << '\n';
 	}
-
 	return 0;
 }
