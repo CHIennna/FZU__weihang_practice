@@ -39,7 +39,7 @@
     <ClCompile Include="第二场eg3-哈希-洛谷P4305.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="第二场eg4-贪心-洛谷P1223.cpp.cpp">
+    <ClCompile Include="第二场eg4-贪心-洛谷P1223.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="第二场eg5-bfs-洛谷P1746.cpp">

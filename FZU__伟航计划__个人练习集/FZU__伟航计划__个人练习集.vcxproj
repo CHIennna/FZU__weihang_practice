@@ -135,7 +135,7 @@
     <ClCompile Include="第二场eg1-洛谷P1548.cpp" />
     <ClCompile Include="第二场eg2-二分-洛谷P1873.cpp" />
     <ClCompile Include="第二场eg3-哈希-洛谷P4305.cpp" />
-    <ClCompile Include="第二场eg4-贪心-洛谷P1223.cpp.cpp" />
+    <ClCompile Include="第二场eg4-贪心-洛谷P1223.cpp" />
     <ClCompile Include="第二场eg5-bfs-洛谷P1746.cpp" />
     <ClCompile Include="第二场eg6-递归-洛谷B2046.cpp" />
     <ClCompile Include="第二场eg7-质数筛-洛谷P5736.cpp" />
