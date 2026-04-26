@@ -51,7 +51,10 @@
     <ClCompile Include="第二场eg7-质数筛-洛谷P5736.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="第二场eg8-线段树-洛谷P.cpp">
+    <ClCompile Include="第二场eg8-dfs-洛谷P1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第二场eg9-线段树-洛谷P.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

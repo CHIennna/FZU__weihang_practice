@@ -139,7 +139,8 @@
     <ClCompile Include="第二场eg5-bfs-洛谷P1746.cpp" />
     <ClCompile Include="第二场eg6-递归-洛谷B2046.cpp" />
     <ClCompile Include="第二场eg7-质数筛-洛谷P5736.cpp" />
-    <ClCompile Include="第二场eg8-线段树-洛谷P.cpp" />
+    <ClCompile Include="第二场eg8-dfs-洛谷P1036.cpp" />
+    <ClCompile Include="第二场eg9-线段树-洛谷P.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
