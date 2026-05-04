@@ -12,11 +12,11 @@ constexpr int maxn = 310;
 constexpr ll INF = 4e18;
 constexpr double eps = 1e-9;
 
-int n, p;
+int n;
 
 signed main() {
-	//²î·ÖÄ£°åÌâ
 	cin.tie(0), cout.tie(0);
 	ios::sync_with_stdio(false);
 
+	return 0;
 }

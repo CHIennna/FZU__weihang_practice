@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="前缀和差分eg1-洛谷P8218.cpp">
+    <ClCompile Include="第一场eg1-前缀和差分-洛谷P8218.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="前缀和差分eg2-洛谷P1719.cpp">
+    <ClCompile Include="第一场eg2-前缀和差分-洛谷P1719.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="前缀和差分eg3-P2367.cpp">
+    <ClCompile Include="第一场eg3-前缀和差分-P2367.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="前缀和差分eg4-洛谷P4231.cpp">
+    <ClCompile Include="第一场eg4-前缀和差分-洛谷P4231.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="前缀和差分eg5-洛谷P1496.cpp">
+    <ClCompile Include="第一场eg5-前缀和差分-洛谷P1496.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="第二场eg1-洛谷P1548.cpp">
@@ -55,6 +55,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="第二场eg9-线段树-洛谷P.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第一场eg6-二维差分模板-洛谷P13787.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第一场eg7-思考题-洛谷P1114.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
