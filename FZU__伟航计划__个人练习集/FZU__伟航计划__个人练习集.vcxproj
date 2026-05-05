@@ -134,6 +134,7 @@
     <ClCompile Include="第一场eg4-前缀和差分-洛谷P4231.cpp" />
     <ClCompile Include="第一场eg6-二维差分模板-洛谷P13787.cpp" />
     <ClCompile Include="第一场eg7-思考题-洛谷P1114.cpp" />
+    <ClCompile Include="第一场eg8-思考题-洛谷P3941.cpp" />
     <ClCompile Include="第二场eg1-洛谷P1548.cpp" />
     <ClCompile Include="第二场eg2-二分-洛谷P1873.cpp" />
     <ClCompile Include="第二场eg3-哈希-洛谷P4305.cpp" />

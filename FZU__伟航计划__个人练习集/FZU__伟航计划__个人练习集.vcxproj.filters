@@ -63,5 +63,8 @@
     <ClCompile Include="第一场eg7-思考题-洛谷P1114.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="第一场eg8-思考题-洛谷P3941.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
