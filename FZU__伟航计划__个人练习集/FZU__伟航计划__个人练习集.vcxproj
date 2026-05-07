@@ -137,6 +137,7 @@
     <ClCompile Include="第一场eg8-思考题-洛谷P3941.cpp" />
     <ClCompile Include="第三场eg1-dp-洛谷P1002.cpp" />
     <ClCompile Include="第三场eg2-dp-洛谷P1725.cpp" />
+    <ClCompile Include="第三场eg3-dp-洛谷P1048.cpp" />
     <ClCompile Include="第二场eg1-洛谷P1548.cpp" />
     <ClCompile Include="第二场eg2-二分-洛谷P1873.cpp" />
     <ClCompile Include="第二场eg3-哈希-洛谷P4305.cpp" />

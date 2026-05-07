@@ -72,5 +72,8 @@
     <ClCompile Include="第三场eg2-dp-洛谷P1725.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="第三场eg3-dp-洛谷P1048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
