@@ -102,5 +102,8 @@
     <ClCompile Include="第四场课后1-洛谷P5318.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="第四场eg2-图论-洛谷P1144.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

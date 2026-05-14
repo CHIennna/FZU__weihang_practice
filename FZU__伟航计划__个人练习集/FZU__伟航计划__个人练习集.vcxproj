@@ -155,6 +155,7 @@
     <ClCompile Include="第二场eg8-dfs-洛谷P1036.cpp" />
     <ClCompile Include="第二场eg9-线段树-洛谷P.cpp" />
     <ClCompile Include="第四场eg1-图论-洛谷P3916.cpp" />
+    <ClCompile Include="第四场eg2-图论-洛谷P1144.cpp" />
     <ClCompile Include="第四场课后1-洛谷P5318.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
