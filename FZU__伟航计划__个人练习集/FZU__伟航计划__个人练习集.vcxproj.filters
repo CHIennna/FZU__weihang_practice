@@ -75,5 +75,32 @@
     <ClCompile Include="第三场eg3-dp-洛谷P1048.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="第三场eg4-dp-洛谷P1880.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场课后1-洛谷P4017.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场课后2-洛谷P1434.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场课后3-洛谷P1435.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场课后4-洛谷P1122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场课后5-洛谷P1020.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场课后6-洛谷P1439.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第四场eg1-图论-洛谷P3916.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第四场课后1-洛谷P5318.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

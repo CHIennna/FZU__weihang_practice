@@ -138,6 +138,13 @@
     <ClCompile Include="第三场eg1-dp-洛谷P1002.cpp" />
     <ClCompile Include="第三场eg2-dp-洛谷P1725.cpp" />
     <ClCompile Include="第三场eg3-dp-洛谷P1048.cpp" />
+    <ClCompile Include="第三场eg4-dp-洛谷P1880.cpp" />
+    <ClCompile Include="第三场课后1-洛谷P4017.cpp" />
+    <ClCompile Include="第三场课后2-洛谷P1434.cpp" />
+    <ClCompile Include="第三场课后3-洛谷P1435.cpp" />
+    <ClCompile Include="第三场课后4-洛谷P1122.cpp" />
+    <ClCompile Include="第三场课后5-洛谷P1020.cpp" />
+    <ClCompile Include="第三场课后6-洛谷P1439.cpp" />
     <ClCompile Include="第二场eg1-洛谷P1548.cpp" />
     <ClCompile Include="第二场eg2-二分-洛谷P1873.cpp" />
     <ClCompile Include="第二场eg3-哈希-洛谷P4305.cpp" />
@@ -147,6 +154,8 @@
     <ClCompile Include="第二场eg7-质数筛-洛谷P5736.cpp" />
     <ClCompile Include="第二场eg8-dfs-洛谷P1036.cpp" />
     <ClCompile Include="第二场eg9-线段树-洛谷P.cpp" />
+    <ClCompile Include="第四场eg1-图论-洛谷P3916.cpp" />
+    <ClCompile Include="第四场课后1-洛谷P5318.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
