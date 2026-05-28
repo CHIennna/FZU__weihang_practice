@@ -108,5 +108,11 @@
     <ClCompile Include="第四场eg3-图论-洛谷P.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="第三场eg5-dp-洛谷P1352.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第三场eg6-dp-洛谷CF2133D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

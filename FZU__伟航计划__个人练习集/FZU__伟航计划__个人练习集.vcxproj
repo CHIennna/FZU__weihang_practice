@@ -139,6 +139,8 @@
     <ClCompile Include="第三场eg2-dp-洛谷P1725.cpp" />
     <ClCompile Include="第三场eg3-dp-洛谷P1048.cpp" />
     <ClCompile Include="第三场eg4-dp-洛谷P1880.cpp" />
+    <ClCompile Include="第三场eg5-dp-洛谷P1352.cpp" />
+    <ClCompile Include="第三场eg6-dp-洛谷CF2133D.cpp" />
     <ClCompile Include="第三场课后1-洛谷P4017.cpp" />
     <ClCompile Include="第三场课后2-洛谷P1434.cpp" />
     <ClCompile Include="第三场课后3-洛谷P1435.cpp" />
